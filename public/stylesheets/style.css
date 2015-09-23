@@ -1,0 +1,10 @@
+.move
+{
+    width: 100px;
+    height:100px;
+    //border:1px solid #cccccc;
+    position:absolute;
+    //background-color: #eaeaea;
+    background-image: url("../images/character.png");
+    background-repeat: no-repeat;
+}
